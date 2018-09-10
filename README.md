@@ -6,7 +6,7 @@
 
 Content from Udacity project [Deep RL Quadcopter Controller](https://github.com/udacity/RL-Quadcopter-2).
 
-DDPG from "Continuous control with deep reinforcement learning" [paper](https://arxiv.org/abs/1509.02971)
+DDPG from [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971) paper.
 
 ### Implementation
 
